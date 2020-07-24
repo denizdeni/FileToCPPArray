@@ -1,6 +1,6 @@
 # FileToCPPArray
 Node.js module for converting input file to c/c++ array.
 
-Reqiured modules:
+Reqiured modules:  
 fs (built-in)  
 prompt
